@@ -6,7 +6,7 @@
 echo "Enter the directory name to backup"
 read FILE
 if[-f $FILE]; then
-    mv $FIlE backup
+    mv $FILE backup
     echo "Directory backed up"
 else
     echo "File doesnt exist"

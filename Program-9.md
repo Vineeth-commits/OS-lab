@@ -1,4 +1,4 @@
-##Shell program to list out all the files and directories separately
+## Shell program to list out all the files and directories separately
 ---
 ```bash
 #!/bin/bash

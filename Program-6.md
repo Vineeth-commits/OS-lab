@@ -1,4 +1,4 @@
-##Shell script to print a gross salary of an employee
+## Shell script to print a gross salary of an employee
 ---
 ```bash
 #!/bin/bash
@@ -16,4 +16,5 @@ else
 fi
 echo "gross salary = $gross"
 ```
+### Output:
 ![](Screenshots/Program-6.png)

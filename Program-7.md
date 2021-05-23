@@ -1,4 +1,4 @@
-##Shell script to check for prime number
+## Shell script to check for prime number
 ---
 ```bash
 #!/bin/bash
@@ -20,4 +20,5 @@ else
     echo "$num is not a prime number"
 fi
 ```
+### Output:
 ![](Screenshots/Program-7.png)

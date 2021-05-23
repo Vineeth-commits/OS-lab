@@ -1,4 +1,4 @@
-##Shell script to generate multiplication table
+## Shell script to generate multiplication table
 ---
 ```bash
 #!/bin/bash
@@ -13,4 +13,5 @@ echo " $n x $i = `expr $n \* $i`"
 i=`expr $i + 1` 
 done
 ```
+### Output:
 ![](Screenshots/Program-5.png)

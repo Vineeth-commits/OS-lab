@@ -1,4 +1,4 @@
-##Shell script to make nested directories
+## Shell script to make nested directories
 ---
 ```bash
 mkdir -vp ~/dir1/{articles/{new,rewrites},images,notes,done}

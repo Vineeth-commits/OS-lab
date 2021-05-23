@@ -1,4 +1,4 @@
-##Shell script to perform arithmetic operations
+## Shell script to perform arithmetic operations
 ---
 ```bash
 #!/bin/bash
@@ -22,5 +22,5 @@ result=$(echo "$a / $b")
 # -l option loads the standard math lib with scale set to 20 as default
 echo "$a / $b = $result"
 ```
-##Output
+### Output:
 ![](Screenshots/Program-4.png)

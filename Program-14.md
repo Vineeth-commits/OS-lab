@@ -1,5 +1,7 @@
+## C program for preemptive SJF scheduling algorithm and calculate average waiting time and turn around time
+---
+```C
 #include <stdio.h>
-  
 int main() 
 {
       int arrival_time[10], burst_time[10], temp[10];
@@ -43,3 +45,6 @@ int main()
       printf("Average Turnaround Time:\t%lf\n", average_turnaround_time);
       return 0;
 }
+```
+## Output:
+![](Screenshots/Program-14.png)

@@ -1,3 +1,6 @@
+## C program for Priority scheduling algorithm
+---
+```C
 #include<stdio.h>
 #include<string.h>
 void main()
@@ -61,3 +64,6 @@ void main()
     printf("\nAverage waiting time is:%f",awt);
     printf("\nAverage turnaroundtime is:%f",ata);
 }
+```
+### Output:
+![](Screenshots/Program-16.png)
